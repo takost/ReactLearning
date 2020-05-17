@@ -1,0 +1,29 @@
+{
+  "name": "reactlearning",
+  "version": "1.0.0",
+  "description": "Training project",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-plugin-react": "^7.20.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takost/ReactLearning.git"
+  },
+  "keywords": [
+    "React",
+    "JavaScript",
+    "Redux"
+  ],
+  "author": "Tatyana Kostromskaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/takost/ReactLearning/issues"
+  },
+  "homepage": "https://github.com/takost/ReactLearning#readme"
+}
